@@ -1,6 +1,6 @@
 # Java Socket Chat App
 <h3>Introduction</h3>
-This is a simple Java socket chat application designed to practice client-server architecture. The project consists of a server application and a client application, allowing multiple clients to connect to the server and exchange messages in real-time.
+<p>This is a simple Java socket chat application designed to practice client-server architecture. The project consists of a server application and a client application, allowing multiple clients to connect to the server and exchange messages in real-time.</p>
 
 <h3><u>Table of Contents</u></h3>
 
