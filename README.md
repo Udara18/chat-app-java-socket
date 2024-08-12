@@ -15,17 +15,18 @@ Client-Server Communication: Allows multiple clients to connect to the server an
 Real-Time Chat: Messages sent by one client are broadcast to all connected clients in real-time.
 
 <h4>Installation</h4>
- - Clone the repository:
-
+- Clone the repository:
+```
 bash
 git clone <repository_url>
+```
 
- - Compile the Java files:
-
+- Compile the Java files:
+```
 bash
 javac ServerApp.java
 javac ClientApp.java
-
+```
 
 <h4>Usage</h4>
 
