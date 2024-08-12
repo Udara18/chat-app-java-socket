@@ -11,8 +11,8 @@ This is a simple Java socket chat application designed to practice client-server
 - Dependencies
 
 <h4>Features</h4>
-Client-Server Communication: Allows multiple clients to connect to the server and exchange messages.
-Real-Time Chat: Messages sent by one client are broadcast to all connected clients in real-time.
+<p>Client-Server Communication: Allows multiple clients to connect to the server and exchange messages.
+Real-Time Chat: Messages sent by one client are broadcast to all connected clients in real-time.</p>
 
 <h4>Installation</h4>
 
