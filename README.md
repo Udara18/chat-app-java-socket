@@ -3,6 +3,7 @@
 This is a simple Java socket chat application designed to practice client-server architecture. The project consists of a server application and a client application, allowing multiple clients to connect to the server and exchange messages in real-time.
 
 <h3><u>Table of Contents</u></h3>
+
 - Introduction
 - Features
 - Installation
@@ -27,16 +28,17 @@ javac ClientApp.java
 
 
 <h4>Usage</h4>
+
 - Start the server:
 
 bash
 java ServerApp
 
 - Start the client(s):
-
+```
 bash
 java ClientApp
-
+```
 
 <h3>Chat: Once the clients are connected, you can start chatting.
 - Dependencies
