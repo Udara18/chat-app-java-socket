@@ -15,28 +15,28 @@ Real-Time Chat: Messages sent by one client are broadcast to all connected clien
 
 <h4>Installation</h4>
  - Clone the repository:
-```
+
 bash
 git clone <repository_url>
-```
+
  - Compile the Java files:
-```
+
 bash
 javac ServerApp.java
 javac ClientApp.java
-```
+
 
 <h4>Usage</h4>
 - Start the server:
-```
+
 bash
 java ServerApp
-```
+
 - Start the client(s):
-```
+
 bash
 java ClientApp
-```
+
 
 <h3>Chat: Once the clients are connected, you can start chatting.
 - Dependencies
